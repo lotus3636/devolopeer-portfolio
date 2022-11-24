@@ -16,11 +16,13 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
+
 }
 
 .half-width {
     width: 50%;
-    padding: 5%;
+    padding: 2%;
 }
 
 .half-width img {
@@ -39,6 +41,11 @@ section {
 }
 
 .top-banner {
+    background-image: url(images/unplash.jpg);
+    background-repeat: no-repeat;
+}
+
+.big-dream {
     background-image: url(images/unplash.jpg);
     background-repeat: no-repeat;
 }
